@@ -1,0 +1,22 @@
+*{
+  box-sizing: border-box;
+  position: relative;
+}
+#box1 {
+	width: 200px;
+	height: 200px;
+	background: #ee3e64;
+}
+
+#box2 {
+	width: 200px;
+	height: 200px;
+  left: 200px;
+	background: #44accf;
+}
+
+#box3 {
+	width: 200px;
+	height: 200px;
+	background: #b7d84b;
+}
